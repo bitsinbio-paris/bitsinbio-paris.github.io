@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Physics, Janson de Sailly 2012
+* M.S. in Computer Science, Telecom Paris, 2016
+* Ph.D in Computational Biology, Mines Paris, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2022: Student Researcher / PhD Candidate, Google Brain
+  * Topic: Unsupervised deep learning for single-cell epigenomics and transcriptomics data in breast cancer: tumor heterogeneity and resistance to chemotherapy
+  * Supervisors: Jean-Philippe Vert, Phd and Celine Vallot, PhD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern, Google Brain
+  * Topic: Speeding up variant calling in [DeepVariant](https://github.com/google/deepvariant)
+  * Supervisor: Cory McLean, PhD
+
+* 2017-2018: PhD Candidate, Ecole Polytechnique
+  * Dropped out
+  * Topic: New Algorithms and Optimizations for Population-Scale Deep Genome Analysis
+  * Worked on adapting DeepVariant for detecting Structural Variations with paired end short read sequencing. 
+  * Supervisors: Yanlei Diao, PhD and Avinash Abhyankar, MD, PhD
+
+* Spring-Summer 2015: Software Engineer Intern, Youtube
+  * Topic: Leveraging the properties of entities in ontologies to organize YouTube Content. 
+  * Lead to a patent: [Methods, systems, and media for presenting content organized by category](https://patentimages.storage.googleapis.com/79/9e/86/297817473d3c37/US11036743.pdf)
+  * Supervisor: Alexander Pak, PhD
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall-Winter 2014: Firmware Engineer Intern, Sigma Designs
+  * Topic: Implement secure Suspend-to-RAM on a muti-processor chip. 
 
 Publications
 ======
@@ -42,18 +45,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Subreviewer for ISMB
+* Reviewer for ICLR
