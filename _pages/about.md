@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a computational biologist interetsed in leveraging computational approaches for understanding the matural sciences.
+I'm a computational biologist interetsted in leveraging computational approaches, machine learning in particular, for understanding the natural sciences.
 
 Prior to that I have done my PhD at Google Brain and [Institut Curie](https://curie.fr/), under the supervision of [Dr. Jean-Philippe Vert](https://jpvert.github.io/) and [Dr. Celine Vallot](https://curie.fr/personne/celine-vallot). I worked on single-cell data analysis with a focus on the reliability of unsupervised learning.
 
