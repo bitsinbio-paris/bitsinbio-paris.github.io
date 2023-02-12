@@ -13,13 +13,13 @@ Education
 ======
 * B.S. in Mathematics and Physics, Janson de Sailly 2012
 * M.S. in Computer Science, Telecom Paris, 2016
-* Ph.D in Computational Biology, Mines Paris, 2022
+* PhD in Computational Biology, Mines Paris, 2022
 
 Work experience
 ======
 * 2019-2022: Student Researcher / PhD Candidate, Google Brain
   * Topic: Unsupervised deep learning for single-cell epigenomics and transcriptomics data in breast cancer: tumor heterogeneity and resistance to chemotherapy
-  * Supervisors: Jean-Philippe Vert, Phd and Celine Vallot, PhD
+  * Supervisors: Jean-Philippe Vert, PhD and Celine Vallot, PhD
 
 * Summer 2018: Research Intern, Google Brain
   * Topic: Speeding up variant calling in [DeepVariant](https://github.com/google/deepvariant)
