@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Physics, Janson de Sailly 2012
-* M.S. in Computer Science, Telecom Paris, 2016
 * PhD in Computational Biology, Mines Paris, 2022
+* M.S. in Computer Science, Telecom Paris, 2016
+* B.S. in Mathematics and Physics, Janson de Sailly 2012
 
 Work experience
 ======
