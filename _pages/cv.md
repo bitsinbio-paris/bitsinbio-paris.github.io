@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* 2023-present: Senior Computational Biologist, [ErVaccine Technologies](https://www.ervaccinetechnologies.com/)
+  * Topic: Cancer immunotherapies target discovery.
+
 * 2019-2022: Student Researcher / PhD Candidate, Google Brain
   * Topic: Unsupervised deep learning for single-cell epigenomics and transcriptomics data in breast cancer: tumor heterogeneity and resistance to chemotherapy
   * Supervisors: Jean-Philippe Vert, PhD and Celine Vallot, PhD
