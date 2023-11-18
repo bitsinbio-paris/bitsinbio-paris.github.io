@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-* 2023-present: Senior Computational Biologist, [ErVaccine Technologies](https://www.ervaccinetechnologies.com/)
-  * Topic: Cancer immunotherapies target discovery.
+* 2023-present: Senior Computational Biologist, [ErvImmune](https://www.ervimmune.com/)
+  * Topic: Cancer immunotherapies target discovery on Endogenous Retro Viruses (ERV).
+  * Lead for the computational biology team.
+  * Moved the legacy academic analysis to reproducible and scalable pipelines.
+  * Oversaw the team grow from 1 to 4 people.
 
 * 2023-present: Associate Researcher, [Centre de  recherche en cancerologie de Lyon](https://www.crcl.fr/en/home/)
   * Topic: Machine learning for immunology.
