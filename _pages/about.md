@@ -16,3 +16,5 @@ engineers, medical practitionners, entrepreneurs, healthcare professionals, and 
 
 We are meeting on a monthy-ish basis at the [Biolabs in Hotel Dieu](https://www.biolabs.io/hotel-dieu),
 right next to the Notre Dame cathedral. 
+
+You can join the bits and bio slack by following this [invite link](https://join.slack.com/t/bitsinbio/shared_invite/zt-2b6j8unr5-3~DLoaV8cDRxdPrF8PU2JA).
