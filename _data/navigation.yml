@@ -13,7 +13,7 @@ main:
     #    url: /portfolio/
     #        
   - title: "Events"
-    url: /events/
+    url: /posts/
     
   - title: "Organizers"
     url: /organizers/
