@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felix Raimundo"
+title                    : "Bits In Bio Paris"
 title_separator          : "-"
-name                     : &name "Felix Raimundo"
-description              : &description "Computational Biologist"
-url                      : https://gamazeps.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bits in Bio Paris"
+description              : &description ""
+url                      : https://bitsinbio-paris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gamazeps/gamazeps.github.io"
+repository               : "bitsinbio-paris/bitsinbio-paris.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Felix Raimundo"
+  name             : "BitsInBio"
   avatar           : "profile.jpg"
   bio              : 
-  location         : "Paris, France -> Worcester, MA, USA"
+  location         : "Paris, France"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=46d9IcYAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=46d9IcYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gamazeps"
+  github           : #"gamazeps"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/felix-raimundo/"
+  linkedin         : #"https://www.linkedin.com/in/felix-raimundo/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gama_search"
+  twitter          : #"gama_search"
   vine             :
   weibo            :
   xing             :
